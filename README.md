@@ -10,4 +10,4 @@ The databases will be merged via the title column. Duplicate rows are deleted an
     genres
     spoken_languages
     production_countries
-The combined dataframe is exported to a CSV file without the index
+The combined dataframe is exported to a CSV file without the index.
